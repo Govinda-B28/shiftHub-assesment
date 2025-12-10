@@ -1,0 +1,25 @@
+{
+  "name": "shifthub-assesment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Govinda-B28/shiftHub-assesment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Govinda-B28/shiftHub-assesment/issues"
+  },
+  "homepage": "https://github.com/Govinda-B28/shiftHub-assesment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
